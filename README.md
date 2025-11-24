@@ -20,4 +20,7 @@ This project implements a simple machine learning model using Linear Regression 
 1. Clone this repository:
    ```bash
    git clone https://github.com/sandycheeks03/Machine-Learning-Mini-Model.git
+<<<<<<< HEAD
    
+=======
+>>>>>>> a0d2c2f9814c58b0c3ce1e792ddf5c1bef943b63

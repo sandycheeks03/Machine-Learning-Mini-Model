@@ -1,0 +1,6 @@
+echo "streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn" > requirements.txt

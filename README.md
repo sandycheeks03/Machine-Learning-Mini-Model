@@ -1,5 +1,6 @@
 # Machine-Learning-Mini-Model
 Machine Learning Project using Python
+
 # AI Programming Project
 
 ## Student Information
@@ -18,9 +19,14 @@ This project implements a simple machine learning model using Linear Regression 
 
 ## How to Run the Code
 1. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/sandycheeks03/Machine-Learning-Mini-Model.git
-<<<<<<< HEAD
-   
-=======
->>>>>>> a0d2c2f9814c58b0c3ce1e792ddf5c1bef943b63
+```
+2. Install required packages:
+```bash
+   pip install -r requirements.txt
+```
+3. Run the application:
+```bash
+   streamlit run app.py
+```
